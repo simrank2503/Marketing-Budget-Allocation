@@ -4,7 +4,7 @@
 This project involves developing a marketing budget allocation strategy using linear programming, considering return on investment (ROI) estimates for various advertising platforms. The objective is to recommend an optimal budget distribution while adhering to specific constraints imposed by the chief marketing officer.
 
 ## Content & Technologies Covered
-1. **Python Code File:** Python code file utilizing packages like Pandas, Numpy, Gurobi, matplotlib, Seaborn demonstrates the optimization process.
+1. **Python Code File:** Python code file utilizing packages like Pandas, Numpy for database, Gurobi for optimization process by Linear Programming, and Matplotlib, Seaborn for data visualization.
 3. **Report:** A well-written report detailing the problem, solution approach, and results.
 
 ## Problem Description
